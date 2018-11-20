@@ -1,0 +1,48 @@
+CREATE TABLE `2011` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2012` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2013` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2014` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2015` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2016` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2017` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+CREATE TABLE `2018` (
+  `Month` int(3) NOT NULL,
+  `ImgURL` varchar(600) DEFAULT NULL,
+  `Published_Time` datetime DEFAULT NULL,
+  `TitleNum` int(5) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
